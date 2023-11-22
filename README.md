@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @1Harsha123
 - 👀 I’m interested in coding.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on MNCS companies.
+- 💞️ I’m looking to collaborate in MNCS companies.
 - 📫 How to reach me harshagupta82101@gmail.com.
 
 <!---
